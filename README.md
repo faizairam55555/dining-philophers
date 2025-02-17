@@ -382,6 +382,6 @@ $ ./philo
 ```
 ** Don't forget to insert the arguments
 
-## Author
 
-- [@DeRuina](https://github.com/DeRuina)
+
+
