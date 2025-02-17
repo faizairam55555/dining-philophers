@@ -1,6 +1,5 @@
 
-# Philosophers 42 Explained / Walkthrough
-#### The famous "Dining Philosophers Problem" walkthrough - 42 cursus project
+##walkthrough into "Dining Philosophers Problem"
 
 
 ## The Dining Philosophers Problem
